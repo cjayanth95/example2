@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "45D1A115641E35B73CD27A5A73C99C6F04D3EE7F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "45D1A115641E35B73CD27A5A73C99C6F04D3EE7F" : 0,
+    "9965BE581971EF8F9351D2A6A392B2E3289305B9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1DE7924E-1FCF-4D62-87F2-5A9D7CFD2EE8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "45D1A115641E35B73CD27A5A73C99C6F04D3EE7F" : "example2\/",
+    "9965BE581971EF8F9351D2A6A392B2E3289305B9" : "..\/..\/Jayanth"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "example2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "example2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cjayanth95\/example2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45D1A115641E35B73CD27A5A73C99C6F04D3EE7F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/vedesh\/go-moodle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9965BE581971EF8F9351D2A6A392B2E3289305B9"
+    }
+  ]
+}
